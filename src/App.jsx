@@ -7,7 +7,7 @@ function App() {
   return (
     <>
         {/*<UsePageBottom/>*/}
-        <UnnecessaryCall/>
+        {/*<UnnecessaryCall/>*/}
     </>
   )
 }

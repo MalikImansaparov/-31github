@@ -1,5 +1,5 @@
 import './App.css'
-import UsePageBottom from "./usePageBottom.jsx";
+import UsePageBottom from "./usePageBottom/usePageBottom.jsx";
 import UnnecessaryCall from "./unnecessaryCall/UnnecessaryCall.jsx";
 
 function App() {
@@ -13,3 +13,5 @@ function App() {
 }
 
 export default App
+
+

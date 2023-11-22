@@ -21,7 +21,7 @@ export const usePageBottom = () => {
     return reachedBottom;
 }
 
-export default function UsePageBottom() {
+export default function UsePageBottom(a) {
     const reachedBottom = usePageBottom();
     console.log("reachedBottom", reachedBottom);
     let arr = [
